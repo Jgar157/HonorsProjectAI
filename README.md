@@ -3,7 +3,7 @@ Honors Project for COP 3003
 
 # Schedule (May be complete in less weeks)
 Week  1 -> Aug 31 2020
-Course Overview
+Course Overview ✓
 
 Week  2 -> Sept 7
 Introduction to AI
