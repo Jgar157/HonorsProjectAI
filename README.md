@@ -6,22 +6,22 @@ Week  1 -> Aug 31 2020
 Course Overview ✓
 
 Week  2 -> Sept 7
-Introduction to AI
+Introduction to AI ✓
 
 Week  3 -> Sept 14
-Data and Information 
+Data and Information ✓
 
 Week  4 -> Sept 21
-Categorizing Data
+Categorizing Data ✓
 
 Week  5 -> Sept 28
-Machine Learning: Why Now?
+Machine Learning: Why Now? ✓
 
 Week  6 -> October 5
-Machine Learning Workflow
+Machine Learning Workflow ✓
 
 Week  7 -> October 12
-Binary Trees
+Binary Trees ✓
 
 Week  8 -> October 19
 Recursion
