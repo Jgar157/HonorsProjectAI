@@ -29,30 +29,68 @@ Categorizing Data ✓
 
 Week  5 -> Sept 28
 Machine Learning: Why Now? ✓
+- Data collection have become more accurate and frequent
+- Computational power has increased and cloud capabilites has made processing power better
+- There has been an explosion in jobs for data science and data analysis
 
 Week  6 -> October 5
 Machine Learning Workflow ✓
+- There must be a problem to solve
+- there must be data input, computational power, algorithms, and a starting point
+- There must be a goal
+- Crisp-DM model
+  - Business Understanding
+  - Data understanding
+  - Data preparation
+  - Modeling
+  - valuation
+  - Deployment
 
 Week  7 -> October 12
 Binary Trees ✓
+- Consists of a root node with every node have 0,1, or 2 children.
+- Nodes with no children are called a leaf
+- 2 Nodes with the same parent are called siblings
 
 Week  8 -> October 19
 Recursion ✓
+- Recursive methods can be intensive on RAM because it continuously adds onto the program stack
+- There must be a base case where the recursion ends
+- There must be a recursive case where the method calls back to itself
 
 Week  9 -> October 26
-Tree Traversal
+Tree Traversal  ✓
+- Preorder: Parent, Left child, right child
+- In order: Left child, Parent, right child
+- Postorder: Left child, right child, parent
 
 Week 10 -> November 2
-Yes/no Game
+Yes/no Game  ✓
+- Uses a decision tree to find the correct animal
+- If the animal is not in the binary tree, then the user can add it
+- All data is saved to a file
 
 Week 11 -> November 9
-Decision Tree Algorithm
+Decision Tree Algorithm  ✓
+- There are different types of decision tree algorithms
+  - CART
+  - Iterative Dichotomiser 3
+  - C4.5
+  - CHAID
+  - Decision stump
+  - Conditional Decision Trees
 
 Week 12 -> November 16
-Information Entropy
+Information Entropy  ✓
+- Data with high level of uncertainty will contain more information
+- If there is new data then there is more info
+- Varaince is how far a set of data is spread
 
 Week 13 -> November 23
-ID3 Worked Example
+ID3 Worked Example  ✓
+- Entropy and Gain are essential for ID3
+- First Entropy is found to find the label with the most entropy
+- Then the Gain is used to find the label with the best spread
 
 Week 14 -> November 30
-Create an ID3 Tree
+Create an ID3 Tree  ✓
